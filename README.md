@@ -17,7 +17,7 @@ This **Color Generator** web application built with **HTML**, **CSS**, and **Jav
 
 ## Demo
 
-You can see a live demo of the project [here](https://tarek514.github.io/Reaction-Tester/).
+You can see a live demo of the project [here](https://tarek514.github.io/Color-Generator/).
 
 ## Technologies Used
 
